@@ -1,7 +1,7 @@
 import streamlit as st
 from rag import ask_question
 
-st.title("company rag chatbot")
+st.title("company rag pinecone db chatbot")
 
 st.write("ask question about the company document")
 
