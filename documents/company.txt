@@ -1,0 +1,34 @@
+COMPANY LEAVE POLICY
+
+Employees receive 24 paid leaves per year.
+
+Employees can take a maximum of 2 consecutive sick leaves without manager approval.
+
+For more than 2 consecutive sick leaves, a medical certificate may be required.
+
+Employees should apply for planned leave at least 3 working days in advance.
+
+Emergency leave should be communicated to the manager as soon as possible.
+
+WORK FROM HOME POLICY
+
+Employees can work from home up to 2 days per week.
+
+Work from home requires manager approval.
+
+Employees working from home must remain available during normal working hours.
+
+Employees must have a reliable internet connection while working from home.
+
+IT SECURITY POLICY
+
+Employees must not share company passwords with anyone.
+
+Passwords must be changed every 90 days.
+
+Employees must use company-approved laptops for accessing production systems.
+
+Production database access requires authorization.
+
+Employees must report suspected security incidents to the IT security team immediately.
+

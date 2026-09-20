@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# API keys / secrets
+.env
+
+# ChromaDB
+chroma_db/
+
+# IDE
+.idea/
+
+# Python cache
+.pytest_cache/
